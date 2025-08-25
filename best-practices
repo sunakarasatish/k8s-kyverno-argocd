@@ -1,0 +1,21 @@
+Kyverno Security Best Practices = Zero Trust for Pods
+
+Enforce Pod Security Standards
+
+Restrict image sources & tags
+
+Require CPU/memory limits
+
+Drop dangerous Linux capabilities
+
+Apply NetworkPolicies automatically
+
+Protect secrets
+
+Start in audit mode → then enforce
+
+Use compliance policy packs
+
+Integrate with CI/CD pipelines
+
+Monitor violations continuousl
