@@ -19,3 +19,26 @@ Use compliance policy packs
 Integrate with CI/CD pipelines
 
 Monitor violations continuousl
+
+
+Advanced Kyverno Security Best Practices:
+
+Block workloads in default namespace
+
+Disallow hostPath volumes
+
+Disallow host networking
+
+Block privileged containers
+
+Require immutable ConfigMaps/Secrets
+
+Disallow :latest image tags
+
+Block root user containers
+
+Enforce labels for ownership/traceability
+
+Restrict egress to only internal networks
+
+Audit → Enforce → Monitor
